@@ -1,3 +1,7 @@
+### 🔐 Demo
+![Demo Page](https://github.com/Zakria-Tahir/GoLearn_LMS_Web_App/blob/main/images/logo.png?raw=true)
+
+
 # GoLearn Web LMS
 
 GoLearn is a self-hosted Learning Management System (LMS) built in PHP. It allows users to create and manage their own courses, upload content, assign quizzes and assignments, and track grades — all through a clean web interface.
@@ -21,7 +25,7 @@ Follow the steps below to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mian-JunaidBabar/GoLearn-LMS-Web-App.git
+git clone https://github.com/Zakria-Tahir/GoLearn_LMS_Web_App.git
 ````
 
 ### 2. Move the Project Folder
@@ -105,3 +109,6 @@ You can access the admin dashboard using:
 ## 🛠️ Contributions
 
 Feel free to fork and improve! Submit pull requests or issues if you’d like to contribute or suggest changes.
+
+
+## Developer: Zakria Tahir
